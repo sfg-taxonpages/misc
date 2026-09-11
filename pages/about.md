@@ -25,7 +25,7 @@ _\* Past contributor, now inactive._
 
 The Earth's biodiversity is vast and the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. Contact us to <TrackerReport label="Report a problem or offer data" tag="a" button-class="cursor-pointer" /> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
 
-- **Cite** this website: Miscellaneous Insecta Species File. [retrieval date]. <https://grylloblattodea.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- **Cite** this website: Miscellaneous Insecta Species File. [retrieval date]. <https://misc.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Extended data access
 
