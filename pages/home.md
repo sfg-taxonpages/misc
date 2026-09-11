@@ -1,6 +1,7 @@
 ---
 layout: blank
 ---
+
 <GalleryCarousel :depiction-id="[1279274,1279258,1279265,1279272,1279243,1279273,1279267,1279271,1279261,1279262,1279469,1279415,1279266,1279279,1279282]" citations height="470px">
   <div class="flex flex-col justify-center items-center w-full h-full bg-black/25 text-white gap-4 px-4 box-border">
     <span class="text-4xl font-medium">{{ app:project_name }}</span>
@@ -15,13 +16,15 @@ layout: blank
 <div class="container mx-auto my-8 px-4 md:px-0 box-border">
 
 # {{ app:project_name }}
-The Selected Insecta Species File is a comprehensive source of knowledge about the world’s Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zypentoma (Thysanura), as well as several fossil groups of insects. Information found here includes nomenclature, classification, taxonomic histories, research, scientific sources, specimen data, images, keys, and distributions for the covered orders of insects. This site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
+
+The Miscellaneous Insecta Species File is a comprehensive source of knowledge about the world’s Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zypentoma (Thysanura), as well as several fossil groups of insects. Information found here includes nomenclature, classification, taxonomic histories, research, scientific sources, specimen data, images, keys, and distributions for the covered orders of insects. This site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
 
 ## Discover more
-See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
+
+See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help).
 
 ## Announcements
 
-July 2026: Launch of Selected Insecta Species File where several small former species files and several small newly established ones are united for greater ease of use.
+July 2026: Launch of Miscellaneous Insecta Species File where several small former species files and several small newly established ones are united for greater ease of use.
 
 </div>
