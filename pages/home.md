@@ -8,7 +8,7 @@ layout: blank
     <p class="text-lg sm:text-xl text-center container">A comprehensive source of knowledge on the extant insect groups Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zygentoma (Thysanura) and the extinct groups Archaeorthoptera, Cnemidolestida, Eoblattida, Permopsocida and Reculida</p>
     <div class="mx-auto flex flex-col items-center mt-6 sm:mt-10 w-full">
       <autocomplete-otu class="w-full sm:w-96 text-base-content ml-2 sm:ml-0" placeholder="Search by taxon name" autofocus/>
-        <p class="text-sm sm:text-base"><em>Explore! Try searching for any taxa from <router-link to="/otus/1089079">Insecta</router-link> or just type Grylloblatta to get started</em></p>
+        <p class="text-sm sm:text-base"><em>Explore! Try searching for any taxon from <router-link to="/otus/1089079">Insecta</router-link> or just type Grylloblatta to get started</em></p>
     </div>
   </div>
 </GalleryCarousel>
