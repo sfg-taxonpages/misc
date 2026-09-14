@@ -4,7 +4,7 @@
 
 # About
 
-Gathering knowledge about the following extant insect groups: Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zygentoma (Thysanura); and the following extinct groups: Archaeorthoptera, Cnemidolestida, Eoblattida, Permopsocida and Reculida
+Gathering knowledge about the following extant insect groups: Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zygentoma (Thysanura); and the following extinct groups: Archaeorthoptera, Cnemidolestida, Eoblattida, Permopsocida and Reculida. This grouping of Insecta as a single Species File is a matter of convenience and efficiency for managing the information of several small extant or extinct orders, not an implication of phylogeny.
 
 ## Overview
 
