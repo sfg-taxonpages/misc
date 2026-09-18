@@ -48,7 +48,6 @@ In July 2026 six species file databases were combined to form Miscellaneous Inse
 This database functionality and content is serviced in part by the Species File Group.
 
 ## Terms of use
-
 <div class="flex items-center gap-2">
   <a
     class="min-w-fit"
