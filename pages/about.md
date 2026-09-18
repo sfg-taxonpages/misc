@@ -16,8 +16,8 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 | ------------------ | ------------ |
 | Heidi Hopkins      | Lead Curator |
 | Tom Klein          | Contributor  |
-| Michael D. Maehr\* | Author       |
-| David C. Eades\*   | Developer    |
+| Michael D. Maehr\* | Founding Curator       |
+| David C. Eades\*   | Founding Developer    |
 
 _\* Past contributor, now inactive._
 
