@@ -23,7 +23,7 @@ _\* Past contributor, now inactive._
 
 ### Contribute or get help
 
-The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem, offer data, get involved" tag="a" button-class="cursor-pointer" /> on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
+The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem, offer data, or get involved" tag="a" button-class="cursor-pointer" /> on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
 
 ### Extended data access
 
