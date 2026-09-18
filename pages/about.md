@@ -23,13 +23,13 @@ _\* Past contributor, now inactive._
 
 ### Contribute or get help
 
-The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem or offer data" tag="a" button-class="cursor-pointer" /> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
+The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem, offer data, get involved" tag="a" button-class="cursor-pointer" /> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
 
 ### Extended data access
 
 A goal of these pages is to ensure that the underlying data behind them are accessible in their digital format. By diversifying the ways the data are accessible (e.g. on the web page, in JSON, in Darwin Core standard), we increase the opportunities to both spot errors and provide new services and portals.
 
-- Anyone interested in working on any group of insects contained in this project can obtain tutoring on how to use the rich, multi-faceted TaxonWorks' interfaces (e.g. filters, reporting, downloads). Contact us <TrackerReport label="Report a problem or offer data" tag="a" button-class="cursor-pointer" /> (bugs or data issues) on our issue tracker if you would like to pursue this opportunity.
+- Anyone interested in working on any group of insects contained in this project can obtain tutoring on how to use the rich, multi-faceted TaxonWorks' interfaces (e.g. filters, reporting, downloads). <TrackerReport label="Report a problem, offer data, get involved" tag="a" button-class="cursor-pointer" /> (bugs or data issues) on our issue tracker if you would like to pursue this opportunity.
 - Data behind individual panels per page can be seen via the _Sitemap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
