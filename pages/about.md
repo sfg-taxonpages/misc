@@ -19,7 +19,7 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 
 _\* Past contributor, now inactive._
 
-- **Cite** this website: Miscellaneous Insecta Species File. [retrieval date]. <https://misc.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- **Cite** this website: Hopkins, H. & Klein, T. Miscellaneous Insecta Species File. [retrieval date]. <https://misc.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Contribute or get help
 
