@@ -13,7 +13,7 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 | name               | role         |
 | ------------------ | ------------ |
 | Heidi Hopkins      | Lead Curator |
-| Tom Klein          | Contributor  |
+| Tom Klein          | Data Contributor  |
 | Michael D. Maehr\* | Founding Curator |
 | David C. Eades\*   | Species File Developer |
 
