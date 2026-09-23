@@ -19,7 +19,7 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 
 _\* Past contributor, now inactive._
 
-- **Cite** this website: Hopkins, H. & Klein, T. Miscellaneous Insecta Species File. [retrieval date]. <https://misc.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- **Cite** this website: Hopkins, H., Klein, T. & Eades, D.C. Miscellaneous Insecta Species File. [retrieval date]. <https://misc.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Contribute or get help
 The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem, offer data, or get involved" tag="a" button-class="cursor-pointer" /> on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
@@ -31,7 +31,7 @@ A goal of these pages is to ensure that the underlying data behind them are acce
 - Data behind individual panels per page can be seen via the _Sitemap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
-- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/dataset/1170).
+- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/dataset/315175).
 
 ## History
 
@@ -44,6 +44,7 @@ In July 2026 six species file databases were combined to form Miscellaneous Inse
 This database functionality and content is serviced in part by the Species File Group.
 
 ## Terms of use
+
 <div class="flex items-center gap-2">
   <a
     class="min-w-fit"
